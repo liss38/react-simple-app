@@ -4,6 +4,15 @@
 Публикация на хостинге Firebase
 В качестве своих "собственных данных"(данных приложения) исползовать Firebase
 
+Ещё посмотреть можно здесь
+> типовые задачи в web приложении на React JS - https://habr.com/ru/post/346584/
+> Пример приложения - https://avrylkov.github.io/react/
+> Исходный код примера приложения - https://github.com/avrylkov/react
+
+Так же, ранее я создавал уже репозиторий для типового приложения, вот он: https://github.com/liss38/simple-app
+В нём есть файл с @TODO таксами для разработки - https://github.com/liss38/simple-app/blob/master/src/App.js
+Эти таски можно использовать и в планировании @TODO данного приложения
+
 
 
 
